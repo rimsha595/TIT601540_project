@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307691944015",
+    "project_id": "tdsip-c4128",
+    "storage_bucket": "tdsip-c4128.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307691944015:android:a06bc2716eb3a90679923a",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAod9QS0yxKa5XLSYPzCQRgjJQN87_3lHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
